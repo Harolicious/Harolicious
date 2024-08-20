@@ -21,6 +21,8 @@ Actualmente, soy profesor de cátedra en los cursos de Robótica y Manufactura A
 - Plataforma Robótica de Transporte y Agarre Universal, Universidad de Tarapacá, 2014.
 
 
+![Firefly Create a futuristic scene that highlights the integration of soft robotics and computer visi](https://github.com/user-attachments/assets/7e616979-8ae6-4265-8909-6dcee5df5c9d)
+
 
 <!--
 **Harolicious/Harolicious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
