@@ -7,10 +7,9 @@
 Soy un ingeniero apasionado por la robótica, especialmente en el campo de la robótica blanda, visión computacional e inteligencia artificial. Mi enfoque principal es combinar estos campos para desarrollar prototipos funcionales e innovadores que aborden desafíos reales.
 
 Intereses Principales:
-
-    Robótica Blanda: Exploración de nuevas fronteras en la interacción entre máquinas y entornos orgánicos.
-    Visión Computacional: Integración de algoritmos de procesamiento de imágenes para mejorar la percepción de sistemas autónomos.
-    Inteligencia Artificial: Implementación de soluciones inteligentes para optimizar la toma de decisiones en sistemas robóticos.
+- Robótica Blanda: Exploración de nuevas fronteras en la interacción entre máquinas y entornos blandos.
+- Visión Computacional: Integración de algoritmos de procesamiento de imágenes para mejorar la percepción de sistemas autónomos.
+- Inteligencia Artificial: Implementación de soluciones inteligentes para optimizar la toma de decisiones en sistemas robóticos.
 
 Actualmente, soy profesor de cátedra en los cursos de Robótica y Manufactura Avanzada en la Universidad de Chile, donde combino la enseñanza con la investigación y el desarrollo de tecnologías emergentes.
 
