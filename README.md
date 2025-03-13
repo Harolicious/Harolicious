@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-👋 Harold Valenzuela Coloma | Ingeniero en Mecatrónica | Magíster en Ciencias de la Ingeniería, Mención Mecánica | Futuro Doctor
+👋 Harold Valenzuela Coloma | Mechatronics Engineer | Master in Engineering Sciences, mention in Mechanics | Future PhD
 
 Soy un ingeniero apasionado por la robótica, especialmente en el campo de la robótica blanda, visión computacional e inteligencia artificial. Mi enfoque principal es combinar estos campos para desarrollar prototipos funcionales e innovadores que aborden desafíos reales.
 
